@@ -41,3 +41,7 @@
 [The Vanishing Gradient Problem in Recurrent Neural Networks](./pdfs/The%20Vanishing%20Gradient%20Problem%20in%20Recurrent%20Neural%20Networks.pdf)
 
 [Long Short-Term Memory Networks](./pdfs/Long%20Short-Term%20Memory%20Networks.pdf)
+
+## LSTM
+
+[LSTM Facebook Stock Prediction](./notebooks/LSTM_facebook.ipynb)
